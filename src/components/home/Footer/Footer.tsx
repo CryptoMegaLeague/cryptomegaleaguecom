@@ -1,7 +1,7 @@
 function Footer () {
     return(
-    <div className="bg-black h-36 flex justify-center items-center">
-        <h1 className="text-white">Footer</h1>
+    <div className="h-24 flex justify-center items-center">
+        <h1 className="">©2021 by Crypto Mega League.</h1>
     </div>
     );
 }

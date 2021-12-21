@@ -12,12 +12,8 @@ function App() {
   return (
     <div className="App">
       <Nav></Nav>
-
+      <h1 className="pb-6 text-lg">Crypto Mega League</h1>
       <Hero></Hero>
-
-      <About></About>
-
-      <Info></Info>
 
       <Footer></Footer>
     </div>
