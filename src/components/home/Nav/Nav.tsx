@@ -1,5 +1,5 @@
 import logo from "../../../assets/CML.png";
-import { FaTwitter, FaInstagram, FaGithub } from "react-icons/fa";
+import { FaTwitter, FaInstagram} from "react-icons/fa";
 
 function Nav() {
   return (
@@ -18,13 +18,6 @@ function Nav() {
           target="_blank"
         >
           <FaInstagram className="w-6 h-6 mx-2 cursor-pointer" />
-        </a>
-        <a
-          href="https://github.com/CryptoMegaLeague"
-          className="cursor-default"
-          target="_blank"
-        >
-          <FaGithub className="w-6 h-6 mx-2 cursor-pointer" />
         </a>
       </div>
       <h1 className="pb-6 text-lg">Crypto Mega League</h1>
