@@ -13,15 +13,15 @@ function Hero() {
         <p className="text-left lg:w-96 mt-4 lg:my-2">
           Starting from unique digital collectibles that live on the Ethereum
           blockchain, we plan to build a vibrant ecosystem that provides
-          features like community token issuance, decentralized finance (DeFi),
-          and play-to-earn DeFi games. A decentralized autonomous
-          Organization(DAO) makes sure every voice in the community is heard.
+          features like: Decentralized Autonomous Organization (DAO) platform
+          that ensures an engaging community, community token issuance,
+          Decentralized Finance (DeFi), and play-to-earn DeFi game.
         </p>
         <p className="text-left lg:w-96 mt-4 lg:my-2">
-          We are a team of students at the University of Washington trying to
-          bring the best in blockchain technology to our community. This project
-          aims to help college athletes and artists build a fan base and
-          supercharge the community to be closer and more engaging than ever.
+          We are a team of students at the University of Washington striving to
+          bring the best in blockchain technology to our community. Our NFTs aim
+          to help college athletes and artists build a fan base, bridge the gap
+          and facilitate the community to be closer and more engaging than ever.
         </p>
         <p className="text-left lg:w-96 mt-4 lg:my-2">
           Owning a CML NFT means you are a stakeholder of our project and an
